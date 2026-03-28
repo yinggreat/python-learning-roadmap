@@ -1,0 +1,55 @@
+{
+  "tracks": [
+    {
+      "slug": "beginner",
+      "title": "零基础入门型",
+      "description": "适合没有编程基础、希望先建立 Python 稳定认知的人。",
+      "recommended_order": [
+        "foundations",
+        "automation",
+        "public-data-collection",
+        "data-analysis",
+        "ai-applications"
+      ],
+      "emphasis": [
+        "语法基础",
+        "练习频率",
+        "案例复盘"
+      ]
+    },
+    {
+      "slug": "career-switcher",
+      "title": "转行项目型",
+      "description": "适合希望通过作品集和项目案例转向 Python 岗位的人。",
+      "recommended_order": [
+        "foundations",
+        "automation",
+        "data-analysis",
+        "public-data-collection",
+        "ai-applications"
+      ],
+      "emphasis": [
+        "项目作品",
+        "代码规范",
+        "面试表达"
+      ]
+    },
+    {
+      "slug": "working-professional",
+      "title": "职场提效型",
+      "description": "适合想用 Python 改善日常流程、提升工作效率的人。",
+      "recommended_order": [
+        "foundations",
+        "automation",
+        "data-analysis",
+        "ai-applications",
+        "public-data-collection"
+      ],
+      "emphasis": [
+        "办公自动化",
+        "数据表达",
+        "业务落地"
+      ]
+    }
+  ]
+}

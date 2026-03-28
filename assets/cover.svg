@@ -1,0 +1,16 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="640" rx="32" fill="#0F172A"/>
+  <circle cx="1110" cy="130" r="180" fill="#F59E0B" fill-opacity="0.18"/>
+  <circle cx="980" cy="520" r="220" fill="#14B8A6" fill-opacity="0.16"/>
+  <rect x="72" y="78" width="214" height="40" rx="20" fill="#F59E0B"/>
+  <text x="104" y="104" fill="#0F172A" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">PYTHON ROADMAP</text>
+  <text x="72" y="220" fill="#F8FAFC" font-size="64" font-family="Segoe UI, Arial, sans-serif" font-weight="800">Python 学习路线图</text>
+  <text x="72" y="286" fill="#CBD5E1" font-size="28" font-family="Segoe UI, Arial, sans-serif">从基础语法到自动化、数据分析与 AI 应用的完整成长路径</text>
+  <text x="72" y="350" fill="#94A3B8" font-size="24" font-family="Segoe UI, Arial, sans-serif">适合初学者 / 转行者 / 想做项目的人</text>
+  <rect x="72" y="418" width="170" height="54" rx="27" fill="#111827" stroke="#334155"/>
+  <rect x="258" y="418" width="170" height="54" rx="27" fill="#111827" stroke="#334155"/>
+  <rect x="444" y="418" width="170" height="54" rx="27" fill="#111827" stroke="#334155"/>
+  <text x="108" y="452" fill="#F8FAFC" font-size="22" font-family="Segoe UI, Arial, sans-serif">路线清晰</text>
+  <text x="294" y="452" fill="#F8FAFC" font-size="22" font-family="Segoe UI, Arial, sans-serif">项目驱动</text>
+  <text x="480" y="452" fill="#F8FAFC" font-size="22" font-family="Segoe UI, Arial, sans-serif">可生成计划</text>
+</svg>

@@ -1,0 +1,90 @@
+{
+  "phases": [
+    {
+      "slug": "foundations",
+      "title": "Foundations",
+      "goal": "Build a clean mental model of Python syntax, data structures, functions, modules, files, and exceptions.",
+      "keywords": [
+        "variables",
+        "control flow",
+        "functions",
+        "lists and dicts",
+        "file I/O",
+        "exceptions"
+      ],
+      "projects": [
+        "command line todo app",
+        "student score manager",
+        "simple contact book"
+      ]
+    },
+    {
+      "slug": "automation",
+      "title": "Automation",
+      "goal": "Use Python to solve repetitive office and workflow problems with scripts that save time.",
+      "keywords": [
+        "pathlib",
+        "csv",
+        "argparse",
+        "batch processing",
+        "report generation"
+      ],
+      "projects": [
+        "file organizer",
+        "sales report generator",
+        "meeting note formatter"
+      ]
+    },
+    {
+      "slug": "public-data-collection",
+      "title": "Public Data Collection",
+      "goal": "Learn compliant data collection, parsing, cleaning, and export from public pages and APIs.",
+      "keywords": [
+        "requests",
+        "HTML parsing",
+        "JSON APIs",
+        "robots awareness",
+        "data export"
+      ],
+      "projects": [
+        "public article collector",
+        "product listing parser",
+        "API data to CSV pipeline"
+      ]
+    },
+    {
+      "slug": "data-analysis",
+      "title": "Data Analysis",
+      "goal": "Turn raw data into summaries, charts, and business insight with pandas-based workflows.",
+      "keywords": [
+        "pandas",
+        "cleaning",
+        "groupby",
+        "visualization",
+        "reporting"
+      ],
+      "projects": [
+        "monthly revenue dashboard",
+        "channel performance report",
+        "customer feedback summary"
+      ]
+    },
+    {
+      "slug": "ai-applications",
+      "title": "AI Applications",
+      "goal": "Use Python to connect large language models to practical workflows and internal tools.",
+      "keywords": [
+        "prompting",
+        "workflow design",
+        "structured output",
+        "report generation",
+        "human review"
+      ],
+      "projects": [
+        "operations brief assistant",
+        "AI summary tool",
+        "question answering helper"
+      ]
+    }
+  ]
+}

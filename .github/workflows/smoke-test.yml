@@ -1,0 +1,18 @@
+name: smoke-test
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  smoke-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Run roadmap smoke tests
+        run: |
+          python scripts/show_roadmap.py --phase automation
+          python scripts/generate_study_plan.py --track career-switcher --focus automation --weeks 12 --weekly-hours 10
